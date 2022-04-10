@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./.github/codes.png" />
+</p>
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Oleg, Full Stack .NET Developer / Architect and my particularly specialty 💼 is business application development. My forte back-ends design and data analysis. I love building web applications that make thing easier for everyone.
+
+🗃️ My repositories contain code and applications that can help improve business processes or speed up application development. 
+<br />
+💬 If you are having trouble using my code, please email me or create issue.
