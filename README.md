@@ -25,4 +25,4 @@ I’m Oleg, Full Stack .NET Developer / Architect and my particularly specialty 
 <br />
 💬 If you are having trouble using my code, please email me or create issue.
 <br />
-🙏🏻 Please point out my mistakes.
+
