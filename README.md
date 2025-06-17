@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Oleg, Full Stack .NET Developer / Architect and my particularly specialty 💼 is business application development. I love building web applications that make thing easier for everyone.
+I’m Oleg, a Full Stack .NET Developer / Architectural Engineer with a strong focus on business application development. I enjoy designing and building solutions that make a real difference in people’s daily routines.
 
-🗃️ My repositories contain code and applications that can help improve business processes or speed up application development. 
-<br />
-💬 If you are having trouble using my code, please email me or create an issue.
-<br />
+🗃️ My repositories contain code, libraries, and applications designed to improve business processes, accelerate application delivery, and enable faster prototyping.
+
+💬 If you have any trouble using my code, please feel free to email me or create an issue.
+
 
